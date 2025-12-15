@@ -1,0 +1,7 @@
+--------------------------------------------------------------------------
+TYPE     : BUG BUG1.001 : Methsaan Wickramasinghe : Started
+NAME     : Create main file, compile and run basic JavaFX program template
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :
+ISSUE    : Starter code to build on top of
+--------------------------------------------------------------------------
