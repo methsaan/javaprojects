@@ -1,0 +1,48 @@
+Dec 14,2025
+        What I did yesterday: N/A
+        What I will do today: Create graphics window and main file, brainstorm and scaffold design patterns for stock analysis model
+        Obstacles I face: N/A
+Dec 15,2025
+        What I did yesterday: Ran and compiled main window
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 16,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 17,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 18,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 19,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 20,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 21,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 22,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 23,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 24,2025
+        What I did yesterday: No progress
+        What I will do today: No work today 
+        Obstacles I face: N/A
+Dec 25,2025
+        What I did yesterday: No progress
+        What I will do today: Brainstorm stock analysis model
+        Obstacles I face: N/A

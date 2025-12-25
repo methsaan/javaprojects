@@ -1,4 +1,0 @@
-Dec 14,2025
-        What I did yesterday: N/A
-        What I will do today: Create graphics window and main file, brainstorm and scaffold design patterns for stock analysis model
-        Obstacles I face: N/A
