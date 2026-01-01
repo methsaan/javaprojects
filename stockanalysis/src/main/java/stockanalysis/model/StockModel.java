@@ -3,7 +3,7 @@ package stockanalysis.model;
 import java.util.ArrayList;
 import java.time.LocalDateTime;
 
-public class StockModel {
+public class StockModel extends Publisher {
 	private ArrayList<double> sharePrices = new ArrayList<double>();
 	private LocalDateTime start;
 	private LocalDateTime end;

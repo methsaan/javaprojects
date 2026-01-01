@@ -24,6 +24,9 @@ public class StockModelBuilder {
 	}
 
 	public StockModel build() {
-		return new StockModel(this.start, this.end, this.sharePrices);
+		if (this.start != null && this.end != null && this.sharePrices != null) {
+			return new StockModel(this.start, this.end, this.sharePrices);
+		}
+		return null;
 	}
 }
